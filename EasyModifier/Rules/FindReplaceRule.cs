@@ -21,15 +21,15 @@ namespace EasyModifier.Rules
                 switch (key)
                 {
                     case "????>":
-                        return String.Format("Find \"{0}\" in line and half if found. Then find \"{1}\" and replace all text after the end of found word with \"{2}\".", find1, find2, replace);
+                        return String.Format("Find \"{0}\" in line and halt if found. Then find \"{1}\" and replace all text after the end of found word with \"{2}\".", find1, find2, replace);
                     case "<????":
-                        return String.Format("Find \"{0}\" in line and half if found. Then find \"{1}\" and replace all text before the beginning of found word with \"{2}\".", find1, find2, replace);
+                        return String.Format("Find \"{0}\" in line and halt if found. Then find \"{1}\" and replace all text before the beginning of found word with \"{2}\".", find1, find2, replace);
                     case "+????":
-                        return String.Format("Find \"{0}\" in line and half if found. Then find \"{1}\" and append \"{2}\" at the beginning of the found word.", find1, find2, replace);
+                        return String.Format("Find \"{0}\" in line and halt if found. Then find \"{1}\" and append \"{2}\" at the beginning of the found word.", find1, find2, replace);
                     case "????+":
-                        return String.Format("Find \"{0}\" in line and half if found. Then find \"{1}\" and append \"{2}\" at the end of found word.\"{2}\".", find1, find2, replace);
+                        return String.Format("Find \"{0}\" in line and halt if found. Then find \"{1}\" and append \"{2}\" at the end of found word.\"{2}\".", find1, find2, replace);
                     case "?????":
-                        return String.Format("Find \"{0}\" in line and half if found. Then find \"{1}\" and replace with \"{2}\".", find1, find2, replace);
+                        return String.Format("Find \"{0}\" in line and halt if found. Then find \"{1}\" and replace with \"{2}\".", find1, find2, replace);
                     default:
                         return "Unknown";
                 }

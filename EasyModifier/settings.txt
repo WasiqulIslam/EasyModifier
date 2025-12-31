@@ -1,0 +1,30 @@
+----->>>>>
+?????ZIA/---\ZIA/---\BONDHU
+----->>>>>
+?????Model: ChannelStream/---\ChannelStream/---\GFLO-VC
+>>>>> Body Style: Globe/---\Body/---\65
+????>Face to face:/---\Face to face:/---\ ISA
+????+Bonnet:/---\Bonnet: Std./---\ ,body matl
+?????Clamps,gld flg:/---\Standard/---\Hdware SS/SS Bolts
+?????______________________________/---\0NULL0/---\0NULL0
+<<<<<Notes:  
+<<<<<0NULL0
+<<<<<1.  Design Pressure:
+<<<<<2.  Design Temperature:
+?????/---\/---\
+?????dummyStarts/---\0NULL0/---\0NULL0
+>>>>>right text1/---\right text/---\40
+>>>>>right text2/---\right text/---\40
+>>>>>right text3/---\right text/---\40
+>>>>>right text4/---\right text/---\50
+>>>>>right text5/---\right text/---\50
+>>>>>right text6/---\right text/---\50
+<<<<<left  text1/---\right text/---\40
+<<<<<left  text2/---\right text/---\40
+<<<<<left  text3/---\right text/---\40
+<<<<<left  text4/---\right text/---\50
+<<<<<left  text5/---\right text/---\50
+<<<<<left  text6/---\right text/---\50
+>>>>>right text7
+<<<<<left  text7
+

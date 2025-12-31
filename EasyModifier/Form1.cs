@@ -367,7 +367,7 @@ Here for 3 and 4 if ""sample"" is found in line then the line will be kept as it
 
 Example of a sample setting file:
 ----->>>>>
-?????VALTEK/---\VALTEK/---\MASCOT
+?????ZIA/---\ZIA/---\BONDHU
 ----->>>>>
 ?????Model: ChannelStream/---\ChannelStream/---\GFLO-VC
 >>>>> Body Style: Globe/---\Body/---\65
